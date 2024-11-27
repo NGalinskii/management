@@ -1,9 +1,13 @@
 // @flow strict
-import { articles } from '@/app/page';
+
+export async function generateStaticParams() {
+  return [{ slug: '1' }, { slug: '2' }, { slug: '1' }];
+}
 
 async function ArticleDetails({ params }) {
+  const id = params.slug;
+
   const getArticle = () => {
-    const id = params.slug;
     if (id == 1) {
       return (
         <div className="container mx-auto px-4 py-8">
@@ -190,7 +194,9 @@ async function ArticleDetails({ params }) {
             </h2>
             <ol className="list-decimal list-inside space-y-4">
               <li>
-                <span className="font-semibold">Взаимодействие с аудиторией</span>
+                <span className="font-semibold">
+                  Взаимодействие с аудиторией
+                </span>
                 <p className="text-white">
                   Активное участие в обсуждениях, ответы на комментарии и
                   вопросы, а также благодарность за отзывы показывают, что вы
