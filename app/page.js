@@ -23,12 +23,14 @@ const cases = [
   {
     title: 'Бренд здорового питания "GreenBite"',
     reading_time_minutes: '6',
+    published_at: 'вчера',
     description:
       'Клиент: Новый бренд здорового питания "Greenbet".\n• Задача: Запустить полноценное присутствие в социальных сетях с нуля.',
     cover_image: '/image/case1.webp',
   },
   {
     title: 'Национальная сеть фитнес-клубов "FitNation"',
+    published_at: 'сегодня',
     reading_time_minutes: '7',
     description:
       'Клиент: Национальная сеть фитнес-клубов "FitNation".\n• Задача: Увеличить участие существующих клиентов и привлечь новых через социальные сети.\n• Решение: Организация интерактивных челленджей и мастер-классов с известными спортсменами, использование инфлюенсеров для продвижения челленджей, создание вирусного контента.\n• Результат: Рост числа подписчиков на 200%, улучшение вовлеченности аудитории, увеличение числа новых регистраций в клубах.',
@@ -36,6 +38,7 @@ const cases = [
   },
   {
     title: 'Международный бренд косметики "BeautyGlow"',
+    published_at: 'сегодня',
     reading_time_minutes: '5',
     cover_image: '/image/case3.webp',
     description:
@@ -45,6 +48,7 @@ const cases = [
 export const articles = [
   {
     id: 1,
+    published_at: 'сегодня',
     title: 'Зачем существуют SMM-агенство?',
     reading_time_minutes: '10',
     description:
@@ -54,6 +58,7 @@ export const articles = [
   },
   {
     id: 2,
+    published_at: 'сегодня',
     title:
       'Инструменты для работы  саудиторией. Зачем бизнесу интернет комьюнити?',
     reading_time_minutes: '15',
@@ -64,6 +69,7 @@ export const articles = [
   },
   {
     id: 3,
+    published_at: 'сегодня',
     title: 'Как создать эффективную SMM-стратегию для бизнеса?',
     reading_time_minutes: '20',
     description:
