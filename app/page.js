@@ -53,8 +53,8 @@ export const articles = [
     reading_time_minutes: '10',
     description:
       'Социальный медиамаркетинг (SMM) стал неотъемлемой частью маркетинговых стратегий компаний различного масштаба. В этой статье мы рассмотрим, почему ведение SMM так важно для бизнеса и какие преимущества оно может предоставить.',
-    cover_image: '/image/article1.jpg',
-    url: `/management/article/1`,
+    cover_image: '/management/image/article1.jpg',
+    url: `/article/1`,
   },
   {
     id: 2,
@@ -64,8 +64,8 @@ export const articles = [
     reading_time_minutes: '15',
     description:
       'В современном мире, где конкуренция среди брендов невероятно высока, ключевым фактором успеха становится создание и поддержка комьюнити в социальных сетях. ',
-    cover_image: '/image/article2.jpg',
-    url: `/management/article/2`,
+    cover_image: '/management/image/article2.jpg',
+    url: `/article/2`,
   },
   {
     id: 3,
@@ -74,8 +74,8 @@ export const articles = [
     reading_time_minutes: '20',
     description:
       'В современном мире социальные сети стали неотъемлемой частью маркетинговой стратегии любого бизнеса. Независимо от размера компании и сферы деятельности, правильный подход к SMM может значительно повысить узнаваемость бренда, привлечь новых клиентов и увеличить продажи.',
-    cover_image: '/image/article3.jpg',
-    url: `/management/article/3`,
+    cover_image: '/management/image/article3.jpg',
+    url: `/article/3`,
   },
 ];
 
