@@ -28,7 +28,7 @@ function AboutSection() {
         </div>
         <div className="flex justify-center order-1 lg:order-2">
           <Image
-            src="/image/team.png"
+            src="/management/image/team.png"
             width={400}
             height={280}
             className="rounded-lg"
