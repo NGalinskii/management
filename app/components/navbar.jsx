@@ -18,7 +18,7 @@ function Navbar() {
           <li>
             <a
               className="block px-4 py-2 no-underline outline-none hover:no-underline"
-              href="/#about"
+              href="#about"
             >
               <div className="text-sm text-white transition-colors duration-300 hover:text-pink-600">
                 О нас
@@ -28,7 +28,7 @@ function Navbar() {
           <li>
             <a
               className="block px-4 py-2 no-underline outline-none hover:no-underline"
-              href="/#service"
+              href="#service"
             >
               <div className="text-sm text-white transition-colors duration-300 hover:text-pink-600">
                 Услуги
@@ -38,7 +38,7 @@ function Navbar() {
           <li>
             <a
               className="block px-4 py-2 no-underline outline-none hover:no-underline"
-              href="/#cases"
+              href="#cases"
             >
               <div className="text-sm text-white transition-colors duration-300 hover:text-pink-600">
                 Кейсы
@@ -48,7 +48,7 @@ function Navbar() {
           <li>
             <a
               className="block px-4 py-2 no-underline outline-none hover:no-underline"
-              href="/#articles"
+              href="#articles"
             >
               <div className="text-sm text-white transition-colors duration-300 hover:text-pink-600">
                 Статьи
