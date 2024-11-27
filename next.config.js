@@ -7,7 +7,7 @@ module.exports = {
   images: {
     unoptimized: true, // Disable default image optimization
   },
-  assetPrefix: '/management/',
+  assetPrefix: './',
   basePath: '/management',
   output: 'export',
   sassOptions: {

@@ -26,7 +26,7 @@ function Item({ blog }) {
         </div>
         <div className="p-2 sm:p-3 flex flex-col">
           <div className="flex justify-between items-center text-[#16f2b3] text-sm">
-            <p>{blog.published_at}</p>
+            <p>Опубликовано: {blog.published_at}</p>
           </div>
 
           <p
