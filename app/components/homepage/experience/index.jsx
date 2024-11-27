@@ -39,7 +39,6 @@ function Experience() {
                   <div className="p-3 relative">
                     <Image
                       src="/blur-23.svg"
-                      alt="Hero"
                       width={1080}
                       height={200}
                       className="absolute bottom-0 opacity-80"

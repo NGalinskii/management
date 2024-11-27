@@ -31,7 +31,6 @@ function AboutSection() {
             src="/image/team.png"
             width={400}
             height={280}
-            alt="Abu Said"
             className="rounded-lg"
           />
         </div>
