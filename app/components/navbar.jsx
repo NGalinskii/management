@@ -16,54 +16,54 @@ function Navbar() {
           id="navbar-default"
         >
           <li>
-            <Link
+            <a
               className="block px-4 py-2 no-underline outline-none hover:no-underline"
               href="/#about"
             >
               <div className="text-sm text-white transition-colors duration-300 hover:text-pink-600">
                 О нас
               </div>
-            </Link>
+            </a>
           </li>
           <li>
-            <Link
+            <a
               className="block px-4 py-2 no-underline outline-none hover:no-underline"
               href="/#service"
             >
               <div className="text-sm text-white transition-colors duration-300 hover:text-pink-600">
                 Услуги
               </div>
-            </Link>
+            </a>
           </li>
           <li>
-            <Link
+            <a
               className="block px-4 py-2 no-underline outline-none hover:no-underline"
               href="/#cases"
             >
               <div className="text-sm text-white transition-colors duration-300 hover:text-pink-600">
                 Кейсы
               </div>
-            </Link>
+            </a>
           </li>
           <li>
-            <Link
+            <a
               className="block px-4 py-2 no-underline outline-none hover:no-underline"
               href="/#articles"
             >
               <div className="text-sm text-white transition-colors duration-300 hover:text-pink-600">
                 Статьи
               </div>
-            </Link>
+            </a>
           </li>
           <li>
-            <Link
+            <a
               className="block px-4 py-2 no-underline outline-none hover:no-underline"
               href="#contact"
             >
               <div className="text-sm text-white transition-colors duration-300 hover:text-pink-600">
                 Оставить заявку
               </div>
-            </Link>
+            </a>
           </li>
         </ul>
       </div>

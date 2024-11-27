@@ -1,7 +1,7 @@
 // @flow strict
 
 export async function generateStaticParams() {
-  return [{ slug: '1' }, { slug: '2' }, { slug: '1' }];
+  return [{ slug: '1' }, { slug: '2' }, { slug: '3' }];
 }
 
 async function ArticleDetails({ params }) {

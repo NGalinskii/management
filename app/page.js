@@ -78,37 +78,3 @@ export const articles = [
     url: `/article/3`,
   },
 ];
-
-// {
-//   type_of: 'article',
-//   id: 1856033,
-//   title: 'GitHub and EC2 manual deployment with Deploy keys',
-//   description: 'For those looking to quickly deploy a project, whether it’s a prototype or a solo endeavor, manual...',
-//   readable_publish_date: 'May 17',
-//   slug: 'github-and-ec2-manual-deployment-with-deploy-keys-397d',
-//   path: '/said7388/github-and-ec2-manual-deployment-with-deploy-keys-397d',
-//   url: 'https://dev.to/said7388/github-and-ec2-manual-deployment-with-deploy-keys-397d',
-//   collection_id: null,
-//   published_timestamp: '2024-05-17T05:39:03Z',
-//   cover_image: 'https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmv441cy8r4os5mhsufl9.jpeg',
-//   social_image: 'https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmv441cy8r4os5mhsufl9.jpeg',
-//   canonical_url: 'https://dev.to/said7388/github-and-ec2-manual-deployment-with-deploy-keys-397d',
-//   created_at: '2024-05-17T05:39:04Z',
-//   edited_at: '2024-05-17T05:48:57Z',
-//   crossposted_at: null,
-//   published_at: '2024-05-17T05:39:03Z',
-//   last_comment_at: '2024-10-31T18:15:51Z',
-//   reading_time_minutes: 2,
-//   tag_list: [ 'aws', 'ec2', 'github', 'deployment' ],
-//   tags: 'aws, ec2, github, deployment',
-//   user: {
-//     name: 'ABU SAID',
-//     username: 'said7388',
-//     twitter_username: null,
-//     github_username: 'said7388',
-//     user_id: 770279,
-//     website_url: 'https://abusaid.me',
-//     profile_image: 'https://media2.dev.to/dynamic/image/width=640,height=640,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F770279%2Fcfbe8b1a-22d8-4826-937c-3736ef6f2005.png',
-//     profile_image_90: 'https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F770279%2Fcfbe8b1a-22d8-4826-937c-3736ef6f2005.png'
-//   }
-// }
